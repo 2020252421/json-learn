@@ -23,7 +23,6 @@ public class MyTest {
 
 
 
-
     @Test
     public void test() {
         String strData = "{\"name\":\"Annie\"},{\"age\":\"18\"}";
