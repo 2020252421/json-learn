@@ -18,7 +18,7 @@ public class JSONUtils {
             String sname = null;
             while ((sname = brname.readLine()) != null) {
                 //System.out.println(sname);
-                list.add(sname);// 将对应value添加到链表存储
+                list.add(sname);// 将对应value添加到list存储
             }
             brname.close();
         } catch (IOException e1) {

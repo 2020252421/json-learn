@@ -1,1 +1,107 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Central and Western","ID_0":102,"ID_1":1,"ISO":"HKG"},"geometry":{"type":"MultiPolygon","coordinates":[[[114.113747,22.285694]],[114.143471,22.290972]]}},{"type":"Feature","properties":{"name":"Eastern","ID_0":102,"ID_1":2,"ISO":"HKG"},"geometry":{"type":"Polygon","coordinates":[[[114.198250,22.258787],[114.198250,22.258787]]]}},{"type":"Feature","properties":{"name":"Islands","ID_0":102,"ID_1":3,"ISO":"HKG"},"geometry":{"type":"MultiPolygon","coordinates":[[113.912086,22.170973],[113.933746,22.324306]]}},{"type":"Feature","properties":{"name":"Kowloon City","ID_0":102,"ID_1":4,"ISO":"HKG"},"geometry":{"type":"Polygon","coordinates":[114.179657,22.349068]}},{"type":"Feature","properties":{"name":"Yuen Long","ID_0":102,"ID_1":18,"ISO":"HKG"},"geometry":{"type":"Polygon","coordinates":[114.084511,22.519991]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central and Western",
+        "ID_0": 102,
+        "ID_1": 1,
+        "ISO": "HKG"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              114.113747,
+              22.285694
+            ]
+          ],
+          [
+            114.143471,
+            22.290972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern",
+        "ID_0": 102,
+        "ID_1": 2,
+        "ISO": "HKG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              114.198250,
+              22.258787
+            ],
+            [
+              114.198250,
+              22.258787
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Islands",
+        "ID_0": 102,
+        "ID_1": 3,
+        "ISO": "HKG"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            113.912086,
+            22.170973
+          ],
+          [
+            113.933746,
+            22.324306
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kowloon City",
+        "ID_0": 102,
+        "ID_1": 4,
+        "ISO": "HKG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          114.179657,
+          22.349068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuen Long",
+        "ID_0": 102,
+        "ID_1": 18,
+        "ISO": "HKG"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          114.084511,
+          22.519991
+        ]
+      }
+    }
+  ]
+}
